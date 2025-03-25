@@ -12,5 +12,9 @@ setup(
             ('**.js', 'javascript', None),
             ('**/templates/**.html', 'ckan', None),
         ],
-    }
+    },
+    entry_points='''
+    [ckan.plugins]
+    example_theme=ckanext.example_theme.plugin:ExampleThemePlugin
+    ''',
 )
