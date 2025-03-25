@@ -1,5 +1,8 @@
 [![Tests](https://github.com//ckanext-example_theme/workflows/Tests/badge.svg?branch=main)](https://github.com//ckanext-example_theme/actions)
 
+# Before start
+This code is edited for manage Incheon National University Lab's homepage. [![Bridge Server](https://bridge.inu.ac.kr)]
+
 # ckanext-example_theme
 
 **TODO:** Put a description of your extension here:  What does it do? What features does it have? Consider including some screenshots or embedding a video!
